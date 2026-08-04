@@ -32,7 +32,7 @@ The extension isn't on the Chrome Web Store — install it locally in developer 
 
 1. Clone or download this repo:
    ```bash
-   git clone https://github.com/xoChrisCo/search-is-better-with-a-keyboard.git
+   git clone https://github.com/xoChrisCo/search-is-best-with-a-keyboard.git
    ```
    …or click **Code → Download ZIP** on GitHub and unzip it somewhere you won't accidentally delete.
 2. Open `chrome://extensions` in Chrome.
@@ -92,7 +92,7 @@ PRs welcome if you spot a selector breaking before I do.
 ## File layout
 
 ```
-search-is-better-with-a-keyboard/
+search-is-best-with-a-keyboard/
 ├── manifest.json   # Manifest V3 declaration
 ├── content.js      # The whole extension — keydown listener + focus logic
 ├── icons/          # Extension icons (16/32/48/128)
